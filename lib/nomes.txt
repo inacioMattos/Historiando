@@ -1,0 +1,13 @@
+GRECIA
+{
+    DIFICIL: Jéssica, Kewelin;
+    MEDIO: Samuel;
+    FACIL: Juliana;
+}
+
+ROMA
+{
+    DIFICIL: Rafael Copes;
+    MEDIO: Bernado Us;
+    FACIL: Victor;
+}

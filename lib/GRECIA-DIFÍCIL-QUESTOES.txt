@@ -1,0 +1,311 @@
+﻿GRÉCIA - DIFÍCIL
+
+1) {
+ 	
+"pergunta":  "O termo diáspora define o deslocamento, normalmente forçado ou
+incentivado, de grandes massas populacionais originárias de uma zona
+determinada para várias áreas de acolhimento distintas. De acordo com esta
+definição e seus conhecimentos adquiridos, a alternativa que melhor define o
+as causas da primeira diáspora grega são:",
+	 
+"alternativas": 
+	 
+[
+ 		
+{"correto": false, "texto": "a infertilidade do solo levou ao declínio da produção agrícola, fazendo com que o povo se deslocasse pelo Mediterrâneo em busca de novas formas de
+produção alimentícia."},
+ 		
+{"correto": false, "texto": "a fundação das cidades-estados, as quais assustaram o povo grego com uma possível rebelião da nobreza contra o imperador."},
+		 
+{"correto": true, "texto": "as constantes invasões dos Jônios, Dórios, Áqueos e Eólios. O que gerou a dispersão do povo grego pelo interior, para fora da Hélade em direção as
+regiões litorâneas da Ásia Menor e as pequenas ilhas espalhadas pelo Mar
+Egeu."},
+ 		
+{"correto": false, "texto": "a falta de solos férteis, as constantes invasões dos Egípcios e a privatização da terra, levando os gregos a se dispersar pela Ásia e parte da Itália.."}
+	 
+],
+	 
+"dificultade": 7.0
+
+},
+
+
+2) {
+ 	
+"pergunta":  "A falta de alimentos e terras fez com que houvesse um distanciamento social e privatização territorial, em busca de fugir disso, alguns grupos se dispersaram pela Europa ocasionando a Diáspora. O trecho se refere a qual momento histórico grego?",
+ 	
+"alternativas": 
+ 	
+[
+ 		
+{"correto": false, "texto": "Primeira diáspora."},
+ 		
+{"correto": false, "texto": "Fundação das cidades-estados."},
+ 		
+{"correto": false, "texto": "Formação dos Hicsos, que mais tarde atacaram o Egito."},
+ 		
+{"correto": true, "texto": "Segunda Diáspora."}
+ 	
+],
+ 	
+"dificultade": 7.4
+
+},
+
+
+3) {
+ 	
+"pergunta":  "A forma de governo em que o poder político está concentrado nas mãos de
+uma pequena parcela de pessoas é chamada de Oligarquia, esta era uma
+característica marcante do governo espartano. Sobre este governo é
+CORRETO afirmar que:",
+ 	
+"alternativas": 
+ 	
+[
+		 
+{"correto": false, "texto": "A Ápela era uma assembleia popular e militar formada por 28 anciãos, com idade superior a 60 anos."},
+		 
+{"correto": false, "texto": "o Estado espartano era governado por dois reis pertencentes as mais poderosas famílias. O poder era dividido, sendo que um rei ficava responsável pelo exército e o outro pelos assuntos religiosos.o verdadeiro poder era exercido pelos Periecos, a camada social dominante."},
+ 		
+{"correto": false, "texto": "os cidadãos eram preparados para administrar os poderes Legislativos, já que Esparta era uma cidade democrática e o povo tinha direito de opinar na escolha das leis."},
+ 		
+{"correto": true, "texto": "o Estado espartano era governado por dois reis pertencentes as mais poderosas famílias. O poder era dividido, sendo que um rei ficava responsável pelo exército e o outro pelos assuntos religiosos."}
+ 	
+],
+ 
+"dificultade": 8.0
+
+},
+
+
+4){
+      	
+"pergunta":  "os cidadãos eram preparados para administrar os poderes Legislativos, já
+que Esparta era uma cidade democrática e o povo tinha direito de opinar na escolha das leis.Os homens de Esparta recebiam uma educação militar rigorosa e muitas vezes cruel, eles eram expostos aos mais variados tipos de testes para que fosse provada a sua eficácia como soldado e defensor de sua pátria. Apenas aos 30 anos os homens se viam livres desta educação, mas era nesta idade que acontecia a prova final chamada de KRIPTIA. Assinale a alternativa que melhor descreve esta prova.",
+      	
+"alternativas": 
+      	
+[
+           	 
+{"correto": false, "texto": "A vida do soldado era colocada perante aos membros da assembleia, os ápelanos da Ápela, os quais julgavam se ele estava ou não de acordo com os critérios de um verdadeiro Esparciata."},
+           	 
+{"correto": false, "texto": "O soldado era treinado para ser um excelente cidadão político, por isso eles realizavam uma prova oral diante dos anciãos da Gerúsia e eram avaliados. Caso reprovados eram mortos com uma adaga chamada “KRIPTA” por isso o nome KRIPTIA."},
+           	 
+{"correto": true, "texto": "Era a finalização dos treinamentos militares por meio da caça aos hilotas. Esta pratica além de ajudar militarmente também diminuía a população hilota, que era em maior número e podia ser uma ameaça ao povo de Esparta."},
+           	 
+{"correto": false, "texto": "Priorizava a formação militar e intelectual, submetia totalmente os
+indivíduos aos interesses estatais."}
+     	 
+],
+      
+"dificultade": 9.0
+
+},
+
+
+5){
+      	
+"pergunta":  "Controlavam os reis e os gerontes, eram eleitos pela Ápela e compartilhavam do poder juntamente com os reis. Com base na organização política de Esparta, estamos falando dos:",
+      	
+"alternativas": 
+      	
+[
+            	
+{"correto": false, "texto": "Cinco chefes militares."},
+            	
+{"correto": false, "texto": "Cinco reis."},
+           	 
+{"correto": false, "texto": "Cinco anciãos da Gerúsia."},
+           	 
+{"correto": true, "texto": "Cinco anciãos da Gerúsia.Cinco Éforos."}
+      	
+],
+      	
+"dificultade": 8.7
+
+},
+
+
+6){
+      	
+"pergunta":  "Ao povo dei tanto privilégio quanto lhe bastasse, nada tirando ou acrescentando à sua honra; Quanto aos que tinham poder e eram famosos por sua riqueza, também tive cuidado para que não sofressem nenhum dano...e não permiti que nenhum dos dois lados triunfasse injustamente; Sobre esse texto, é correto afirmar que seu autor,",
+      	
+"alternativas": 
+      	
+[
+            	
+{"correto": true, "texto": "o legislador Sólon, exprime o orgulho pelas leis, de caráter democrático, que fez aprovar em Atenas quando governou a cidade."},
+            	
+{"correto": false, "texto": "o demagogo Sólon, recorre à eloqüência e à retórica para enganar as massas e assim obter seu apoio para alcançar o poder;"},
+            	
+{"correto": false, "texto": "o tirano Sólon, lembra como, astutamente, acabou com as lutas de classes em Atenas, submetendo ricos e pobres às mesmas leis;"},
+            	
+{"correto": false, "texto": "o filósofo Sólon, evoca de maneira poética a figura do lendário Drácon, estadista e criador da democracia ateniense;"}
+    	
+],
+      	
+"dificultade": 9.8
+
+},
+
+
+7){
+      	
+"pergunta":  "... andava pelas ruas e praças de Atenas, pelo mercado e pela assembléia indagando a cada um: 'Você sabe o que é isso que está dizendo?', 'Você sabe o que é isso em que você acredita?', ...'Você diz que a coragem é importante, mas o que é a coragem?', 'Você acredita que a justiça é importante, mas o que é a justiça?', ... 'Você crê que seus amigos são a melhor coisa que você tem, mas o que é a amizade?'. Suas perguntas deixavam seus interlocutores embaraçados,... descobriam surpresos que não sabiam responder e que nunca tinham pensado em suas crenças e valores... as pessoas esperavam que ele respondesse, mas para desconcerto geral, dizia: 'Não sei, por isso estou perguntando.' Daí a famosa frase: 'Sei que nada sei' ". (Marilena Chauí) O texto relaciona-se com:",
+      	
+"alternativas": 
+      	
+[
+          	  	
+{"correto": false, "texto": "a criação dos princípios da Lógica, por Aristóteles, de maneira a formar uma ciência Analítica: A Metafísica."},
+          	 	
+{"correto": true, "texto": "a filosofia de Sócrates, voltada para as questões humanas, preocupada com as virtudes morais e políticas."},
+            	
+{"correto": false, "texto": "a obstinação do historiador Tucídides em descobrir as causas políticas que determinaram os acontecimentos históricos."},
+            	
+{"correto": false, "texto": "as preocupações de Eurípedes com os problemas do homem, suas paixões, grandezas e misérias."}
+      	
+],
+     	 
+"dificultade": 8.9
+
+},
+
+
+8) {
+	 
+"pergunta":  "Em relação ao pensamento científico e filosófico grego, é correto afirmar:",
+ 	
+"alternativas": 
+	 
+[
+		 
+{"correto": false, "texto": "Os sofistas percorriam as cidades ensinando. Foi com eles que a educação se tornou atividade profissional."},
+		 
+{"correto": false, "texto": "A Escola Pitagórica acreditava que o número era a essência do universo e a medida de todas as coisas."},
+		 
+{"correto": false, "texto": "Na Grécia não havia uma clara distinção entre Filosofia e Ciência."},
+		 
+{"correto": true, "texto": "Todas as alternativas estão corretas."}
+	 
+],
+	 
+"dificultade": 7.5
+
+},
+
+
+9) {
+	 
+"pergunta":  "As chamadas Guerras Médicas, contra os persas, no século V. a.C., condicionaram uma série de transformações políticas, econômicas e sociais no mundo grego. Dentre essas transformações é correto apontar",
+ 	
+"alternativas": 
+	 
+[
+		
+{"correto": false, "texto": "a consolidação da hegemonia de Esparta sobre toda a Grécia, em virtude da forte concentração militar produzida por aquela cidade na região do Peloponeso."},
+	 	
+{"correto": false, "texto": "a relativa decadência comercial de Atenas, que teve sua frota mercante severamente reduzida pelos ataques persas no mar Egeu."},
+		
+{"correto": false, "texto": "a formação da Confederação de Delos, uma liga militar de forças terrestres comandada por Esparta."},
+		 
+{"correto": true, "texto": "a intensificação da luta interna entre os partidos democrático e aristocrático em Atenas."}
+ 	
+],
+ 	
+"dificultade": 8.0
+
+},
+
+
+10) {
+	 
+"pergunta":  "Sobre o processo de expansão das cidades gregas, ocorrido por volta de 750 a.C., assinale a alternativa correta.",
+	 
+"alternativas": 
+	 
+[
+		 
+{"correto": false, "texto": "Todas as conquistas realizadas durante a segunda diáspora grega tiveram por base vias continentais em que os caminhos terrestres foram os de maior importância."},
+		 
+{"correto": true, "texto": "Com a melhoria das técnicas de navegação, incluindo a utilização da âncora, foi possível a conquista de novas áreas via Mediterrâneo, onde poderosos impérios dificultavam a expansão grega."},
+ 		
+{"correto": false, "texto": "A travessia dos mares pelos gregos foi dificultada pela ascensão do poder bélico do Império Fenício na Ásia."},
+		 
+{"correto": false, "texto": "A exportação de gêneros alimentícios gregos para áreas conquistadas só foi possível devido ao desenvolvimento de novas técnicas e à alta produtividade agrícola."}
+	 
+],
+	 
+"dificultade": 8.8
+
+},
+
+
+11) {
+    	  
+"pergunta":  "O mundo grego antigo possuía certa unidade religiosa, embora fosse fragmentado politicamente. Essa religiosidade foi, marcadamente,",
+      
+"alternativas": 
+   	   
+[
+          		
+{"correto": true, "texto": "a) de natureza cívica, na medida em que os cidadãos cultuavam os deuses da cidade, com celebrações festivas e sacrifícios, nos altares a eles dedicados."},
+          	  	
+{"correto": false, "texto": "acessível a todas as classes sociais por ter característica familiar e monoteísta, com um deus que se manifestava ao povo através de revelação direta e pessoal."},
+            	
+{"correto": false, "texto": "portadora de uma ética que considerava sagrado o trabalho manual dedicado às divindades, o que permitia enfrentar a rigidez e a monotonia da vida cotidiana."},
+            	
+{"correto": false, "texto": "de caráter julgador, colocando os indivíduos a serviço das divindades e punindo os pecados daqueles que desobedeciam aos deuses ou professavam outras religiões e outros cultos."}
+    	  
+],
+      	
+"dificultade": 9.0
+
+},
+
+
+12) {
+	 
+"pergunta":  "E muitos a Atenas, para a pátria de geração divina, reconduzi, vendidos que foram - um injustamente, o outro justamente; e outros por imperiosas obrigações exilados, e que nem mais a língua ática falavam, de tantos lugares por que tinham errado; e outros, que aqui mesmo escravidão vergonhosa levavam, apavorados diante dos caprichos dos senhores, livres estabeleci. O texto, um fragmento de um poema de Sólon - arconte ateniense, 594 a.C. -, citado por Aristóteles em "A Constituição de Atenas", refere-se",
+	 
+"alternativas": 
+	 
+[
+		 
+{"correto": false, "texto": "ao fim da tirania."},
+		 
+{"correto": false, "texto": "à lei que permitia ao injustiçado solicitar reparações."},
+		 
+{"correto": false, "texto": "à criação da lei que punia aqueles que conspiravam contra a democracia."},
+		 
+{"correto": true, "texto": "à abolição da escravidão por dívida."}
+	 
+],
+	 
+"dificultade": 9.0
+
+},
+
+
+13) {
+ 	
+"pergunta":  "Dentre os legados dos gregos da Antigüidade Clássica que se mantêm na vida contemporânea, podemos citar:",
+	 
+"alternativas": 
+	 
+[
+		 
+{"correto": false, "texto": "a concepção de democracia com a participação do voto universal."},
+		 
+{"correto": true, "texto": "a promoção do espírito de confraternização por intermédio do esporte e de jogos."},
+ 		
+{"correto": false, "texto": "a idealização e a valorização do trabalho manual em todas suas dimensões."},
+		 
+{"correto": false, "texto": "os valores artísticos como expressão do mundo religioso e cristão."}
+	 
+],
+ 	
+"dificultade": 8.5
+
+},

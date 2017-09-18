@@ -1,0 +1,118 @@
+﻿1)
+{
+	"pergunta": " A expansão romana pelo Mar Mediterrâneo gerou importantes transformações políticas, econômicas e sociais. Dentre elas temos:",
+	"alternativas":
+	[
+		{"correto": false, "texto": " fortalecimento da família; desenvolvimento das atividades agropastoris; grande afluxo de riquezas, provenientes das conquistas."},
+		{"correto": false, "texto": " aumento do trabalho livre; maior concentração populacional nos campos e enriquecimento da elite patrícia "},
+		{"correto": true, "texto": " grande número de escravos; predomínio do comércio; êxodo rural, gerando o empobrecimento da plebe."},
+		{"correto": false, "texto": " fim do trabalho escravo; concentração da plebe no campo; domínio político dos militares."}
+	],
+	"dificuldade": 4.0
+},
+2)
+{
+	"pergunta": " O Edito de Milão (313), no processo de desenvolvimento histórico de Roma, reveste-se de grande significado, tendo em vista que:",
+	"alternativas":
+	[
+		{"correto": true "texto": " proclamou a liberdade do culto cristão passando Constantino a ser o protetor da Igreja."},
+		{"correto": false, "texto": " tornou o cristianismo a religião oficial de todo Império Romano, terminando com a concepção de rei-deus. "},
+		{"correto": false, "texto": " acabou inteiramente com os cultos pagãos que então dominavam a vida religiosa.."},
+		{"correto": false, "texto": " deu prosseguimento à política de Deocleciano de intenso combate à expansão do cristianismo."}
+	],
+	"dificuldade": 5.0
+},
+3)
+{
+	"pergunta": " A expansão de Roma durante a República, com o consequente domínio da bacia do Mediterrâneo, provocou sensíveis transformações sociais e econômicas, dentre as quais:",
+	"alternativas":
+	[
+		{"correto": false"texto": " marcado processo de industrialização, êxodo urbano, endividamento do Estado."},
+		{"correto": false, "texto": " fortalecimento da classe plebeia, expansão da pequena propriedade, propagação do cristianismo. "},
+		{"correto": false, "texto": " crescimento da economia agropastoril, intensificação das exportações, aumento do trabalho livre."},
+		{"correto": true, "texto": " enriquecimento do Estado romano, aparecimento de uma poderosa classe de comerciantes, aumento do número de escravos."}
+	],
+	"dificuldade": 4.0
+},
+4)
+{
+	"pergunta": " Várias razões explicam as perseguições sofridas pelos cristãos no Império Romano, entre elas:",
+	"alternativas":
+	[
+		{"correto": true "texto": " a oposição à religião do Estado Romano e a negação da origem divina do Imperador, pelos cristãos."},
+		{"correto": false, "texto": " a publicação do Edito de Milão que impediu a legalização do Cristianismo e alimentou a repressão. "},
+		{"correto": false, "texto": " a formação de heresias como a do Arianismo, de autoria do bispo Ário, que negava a natureza divina de Cristo."},
+		{"correto": false, "texto": " a organização dos Concílios Ecumênicos, que visavam promover a definição da doutrina cristã."}
+	],
+	"dificuldade": 5.0
+},
+5)
+{
+	"pergunta": " As Guerras Púnicas, conflitos entre Roma e Cartago, no século II a.C., foram motivadas:",
+	"alternativas":
+	[
+		{"correto": false "texto": " pela disputa pelo controle do comércio no Mar Negro e posse das colônias gregas."},
+		{"correto": false, "texto": " pelo controle das regiões da Trácia e Macedônia e o monopólio do comércio no Mediterrâneo. "},
+		{"correto": true, "texto": " pelo domínio da Sicília e disputa pelo controle do comércio no Mar Mediterrâneo."},
+		{"correto": false, "texto": " divisão do Império Romano entre os generais romanos e a submissão de Siracusa a Cartago."}
+	],
+	"dificuldade": 4.0
+},
+6)
+{
+	"pergunta": " Quando a notícia disto chegou ao exterior, explodiram revoltas de escravos em Roma (onde 150 conspiraram contra o governo), em Atenas (acima de 1.000 envolvidos), em Delos e em muitos outros lugares. Mas os funcionários governamentais logo as suprimiram nos diversos lugares com pronta ação e terríveis torturas como punição, de modo que outros que estavam a ponto de revoltar- se caíram em si.
+(Diodoro da Sicília, sobre a Guerra Servil na Sicília. 135-132 a.C.)
+
+É correto afirmar que as revoltas de escravos na Roma Antiga eram:",
+	"alternativas":
+	[
+		{"correto": false "texto": " lideradas por senadores que lutavam contra o sistema escravista."},
+		{"correto": false, "texto": " semelhantes às revoltas dos hilotas em Esparta. "},
+		{"correto": true, "texto": " provocadas pela exploração e maltratos impostos pelos senhores."},
+		{"correto": false, "texto": " desencadeadas pelas frágeis leis, que deixavam indefinida a situação de escravidão."}
+	],
+	"dificuldade": 5.0
+},
+7)
+{
+	"pergunta": "" O vínculo entre os legionários e o comandante começou progressivamente a assimilar-se ao existente entre patrão e cliente na vida civil: a partir da época de Mário e Sila, os soldados procuravam os seus generais para a reabilitação econômica e os generais usavam os soldados para incursões políticas."
+(Perry Anderson, "PASSAGEM DA ANTIGUIDADE AO FEUDALISMO".)
+
+O texto oferece subsídios para a compreensão:",
+	"alternativas":
+	[
+		{"correto": true "texto": " da crise da República romana."},
+		{"correto": false, "texto": da implantação da monarquia etrusca. "},
+		{"correto": false, "texto": " do declínio do Império Romano."},
+		{"correto": false, "texto": " da ascensão do Império Bizantino."}
+	],
+	"dificuldade": 4.0
+},
+8)
+{
+	"pergunta": " "Os homens que combatem e morrem pela Itália têm o ar, a luz e mais nada (...). Lutam e perecem para sustentar a riqueza e o luxo de outro, mas embora sejam chamados senhores do mundo, não têm um único torrão de terra que seja seu."
+(Tibério Graco - Perry Anderson, PASSAGEM DA ANTIGÜIDADE AO FEUDALISMO, pág. 60)
+
+
+Os irmãos Tibério e Caio Graco, Tribunos da Plebe romana, pretendiam:",
+	"alternativas":
+	[
+		{"correto": true "texto": " limitar a área de terras públicas (Ager Publicus) ocupadas por particulares e distribuir as mesmas aos cidadãos pobres."},
+		{"correto": false, "texto": " limitar a área de latifúndios e distribuir as terras públicas aos Patrícios. "},
+		{"correto": limitar o direito de cidadania romana aos habitantes do Lácio, Etrúria e Sabínia."},
+		{"correto": false, "texto": " limitar a excessiva expansão territorial derivada de uma prolongada política de conquista e anexação de terras."}
+	],
+	"dificuldade": 5.0
+},
+9)
+{
+	"pergunta": " Sobre os primitivos habitantes da Itália, pode-se afirmar que os:",
+	"alternativas":
+	[
+		{"correto": false "texto": " italiotas acomodaram-se no Sul da Itália, onde desenvolveram povoados."},
+		{"correto": false, "texto": gregos ocuparam a parte Central da Península, subdividindo-se em vários clãs. "},
+		{"correto": true, "texto": " etruscos, provavelmente originários da Ásia, ocuparam o Norte da Península."},
+		{"correto": false, "texto": " lígures fixaram-se ao Sul combatendo ferrenhamente os etruscos."}
+	],
+	"dificuldade": 4.0
+},

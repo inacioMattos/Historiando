@@ -1,0 +1,257 @@
+{
+
+"pergunta": "Na Grécia antiga, a cada quatro anos declarava-se uma trégua nas guerras, a fim de que a população pudesse participar dos jogos de Olímpia, competição que originou os modernos Jogos Olímpicos, e que eram realizados em honra de:",
+
+"alternativas":
+
+[
+
+{"correto":false, "texto": "Palas Atena"},
+
+{"correto":true, "texto": "Zeus"},
+
+{"correto":false, "texto": "Deuses de cada cidade"},
+
+{"correto":false, "texto": "Dionísio e Afrodite"},
+
+],
+
+"dificuldade": 1.0
+
+},
+
+2)
+
+{
+
+"pergunta": "Atenas foi considerada o berço do regime democrático no mundo antigo. Sobre o regime democrático ateniense, é CORRETO afirmar que:",
+
+"alternativas":
+
+[
+
+{"correto":false, "texto": "Era baseado na eleição de representantes para as Assembléias Legislativas, que se reuniam uma vez por ano na Ágora e deliberavam sobre os mais variados assuntos."},
+
+{"correto":false, "texto": "Os estrangeiros e mulheres maiores de 21 anos podiam participar livremente das decisões tomadas nas assembleias da Cidade-Estado."},
+
+{"correto":true, "texto": "Apenas os homens livres eram considerados cidadãos e participavam diretamente das decisões tomadas na Cidade-Estado."},
+
+{"correto":false, "texto": "A inexistência de escravos em Atenas levava a uma participação quase total da população da Cidade-Estado na política."},
+
+],
+
+"dificuldade": 1.0
+
+},
+
+3)
+
+{
+
+"pergunta": "A Guerra do Peloponeso, ocorrida na Grécia entre 431 e 401 a.C., foi:",
+
+"alternativas":
+
+[
+
+{"correto":false, "texto": "Uma guerra defensiva empreendida pelos gregos contra a invasão dos persas e a ameaça de perda de suas principais praças de comércio do Mar Mediterrâneo"},
+
+{"correto":false, "texto": "uma luta entre dórios e aqueus na época da ocupação do território grego que resultou na formação das cidades de Esparta e Atenas"},
+
+{"correto":false, "texto": "uma invasão do território grego pelas tropas de Alexandre - O Grande, na época de expansão do Império Macedônico que herdara de seu pai."},
+
+{"correto":true, "texto": "uma luta comandada pelas cidades de Esparta e Corinto contra a hegemonia da Confederação de Delos - liderada por Atenas - sobre o território grego"},
+
+],
+
+"dificuldade": 1.0
+
+},
+
+4)
+
+{
+
+"pergunta": "Na Pólis grega e no Império Romano, o trabalhador escravo esteve na origem das grandes realizações, podendo-se afirmar que:",
+
+"alternativas":
+
+[
+
+{"correto":false, "texto": " tanto na Grécia como em Roma, eram instrumentos vivos e participavam da vida política, respectivamente da Bulé e do Senado."},
+
+{"correto":false, "texto": "os escravos podiam pertencer exclusivamente aos cidadãos e realizavam assembléias que defendiam seus direitos."},
+
+{"correto":false, "texto": " a fonte principal de abastecimento de escravos, tanto em Roma como na Grécia, era o comércio com as tribos africanas."},
+
+{"correto":true, "texto": "o sistema de produção era baseado na força de trabalho de prisioneiros de guerra ou populações escravizadas."},
+
+],
+
+"dificuldade": 1.0
+
+},
+
+5)
+
+{
+
+"pergunta": "A Grécia possuía um território montanhoso e acidentado, amplamente banhando pelo mar facilitando:",
+
+"alternativas":
+
+[
+
+{"correto":false, "texto": "o desenvolvimento da indústria."},
+
+{"correto":false, "texto": "o desenvolvimento da monocultura de larga escala."},
+
+{"correto":false, "texto": "o desenvolvimento do comércio de seda."},
+
+{"correto":true, "texto": "o desenvolvimento do comércio marítimo e da navegação."},
+
+],
+
+"dificuldade": 1.0
+
+},
+
+6)
+
+{
+
+"pergunta": "A Grécia antiga nos deixou uma imensa herança cultural. Na área da medicina a grande contribuição para os processos de cura foi feita através das investigações de:",
+
+"alternativas":
+
+[
+
+{"correto":false, "texto": "Homero."},
+
+{"correto":true, "texto": "Hipocrátes."},
+
+{"correto":false, "texto": "Heródoto."},
+
+{"correto":false, "texto": "Heráclito."},
+
+],
+
+"dificuldade": 1.0
+
+},
+
+7)
+
+{
+
+"pergunta": "A Grécia antiga nos deixou um imenso legado cultural. Na filosofia, o método de investigação da verdade através de perguntas e respostas foi criado por Sócrates e ficou conhecido como diálogo socrático ou:",
+
+"alternativas":
+
+[
+
+{"correto":false, "texto": "Hoplita"},
+
+{"correto":true, "texto": "Maiêutica"},
+
+{"correto":false, "texto": "Sofisma"},
+
+{"correto":false, "texto": "Lógica."},
+
+],
+
+"dificuldade": 1.0
+
+},
+
+8)
+
+{
+
+"pergunta": "Os gregos antigos são considerados os "país do ocidente" pois deram origem a cultura ocidental ao inventar:",
+
+"alternativas":
+
+[
+
+{"correto":false, "texto": "Ha política do pão e circo."},
+
+{"correto":false, "texto": "o monoteísmo."},
+
+{"correto":false, "texto": "código de Hamurabi."},
+
+{"correto":true, "texto": "o teatro."},
+
+],
+
+"dificuldade": 1.0
+
+},
+
+9) {
+
+"pergunta": "Entre as principais cidades gregas que surgiram na Grécia continental no início do período arcaico destacam-se: ",
+
+"alternativas":
+
+[
+
+{"correto":false, "texto": "Atenas e cartago."},
+
+{"correto":false, "texto": "Esparta e Alexandria."},
+
+{"correto":false, "texto": "Tebas e Medina."},
+
+{"correto":true, "texto": "Atenas e Esparta."},
+
+],
+
+"dificuldade": 1.0
+
+},
+
+10) {
+
+"pergunta": "Alexandre, o grande, conquistou o Império Persa e dominou vários territórios, do Egito até a Índia. Durante seu governo houve grande expansão
+
+do comércio, da urbanização e a mistura de valores gregos com os dos povos conquistados. Essa mistura ficou conhecida como: ",
+
+"alternativas":
+
+[
+
+{"correto":true, "texto": "Cultura helenística"},
+
+{"correto":false, "texto": "ultura alexandrina."},
+
+{"correto":false, "texto": "Cultura micênica."},
+
+{"correto":false, "texto": "Cultura romana"},
+
+],
+
+"dificuldade": 1.0
+
+},
+
+11){
+
+"pergunta": "A democracia não foi a única herança que recebemos dos antigos gregos. histórias fantásticas, repletas de seres imaginários e criadas há mais de 3 mil anos, estão presentes entre nós. elas fazem parte da mitologia grega. Sobre a mitologia grega é correto afirmar: ",
+
+"alternativas":
+
+[
+
+{"correto":true, "texto": "Hermes era o mensageiro dos deuses e o deus dos viajantes."},
+
+{"correto":false, "texto": "Hades era filho de Zeus e o Deus da guerra."},
+
+{"correto":false, "texto": "Artemis era a esposa de Zeus e deusa do casamento e maternidade."},
+
+{"correto":false, "texto": "Ares era o deus do mundo subterrâneo."},
+
+],
+
+"dificuldade": 1.0
+
+},

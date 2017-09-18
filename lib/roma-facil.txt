@@ -1,0 +1,184 @@
+Questões pro Quiz de História: Nível Difícil
+
+
+1) {
+ 	"pergunta":  "Na Roma Antiga, a expressão "até tu Brutus?" foi atribuída a Júlio César que, de acordo com fontes históricas, a teria proferido no momento de seu assassinato, em 44 a.C. Nesse contexto da história de Roma, Júlio César tornou-se conhecido porque:",
+	 "alternativas":
+	 [
+ 		{"correto": false, "texto": "iniciou o processo de expansão romana, desencadeando as chamadas guerras púnicas, por meio das quais Roma se converteu em potência marítima."},
+ 		{"correto": false, "texto": "criou o primeiro código escrito, denominado "Leis das Doze Tábuas", que tratava de assuntos referentes ao Direito Civil e ao Direito Penal."},
+		{"correto": true, "texto": "adquiriu grandes poderes e privilégios especiais, como os títulos de ditador perpétuo e de censor vitalício, suscitando lutas políticas pelo poder, sobretudo no Senado Romano."},
+ 		{"correto": false, "texto": "contribuiu, com as suas leis abolicionistas, para crise geral do escravismo romano, que abalou as atividades agrícolas de todo o Império Romano."}
+	 ],
+	 "dificuldade": 8.0
+},
+
+
+
+2) {
+ 	"pergunta":  ""A história da Antiguidade Clássica é a história das cidades, porém, de cidades baseadas na propriedade da terra e na agricultura."
+(K. Marx. "Formações econômicas pré-capitalistas.")
+
+Em decorrência da frase de Marx, é correto afirmar que:",
+	 "alternativas":
+	 [
+ 		{"correto": false, "texto": "os comerciantes eram o setor urbano com maior poder na Antiguidade, mas dependiam da produção agrícola."},
+ 		{"correto": false, "texto": "o comércio e as manufaturas eram atividades desconhecidas nas cidades em torno do Mediterrâneo."},
+		 {"correto": false, "texto": "as populações das cidades greco-romanas dependiam da agricultura para a acumulação de riqueza monetária."},
+ 		{"correto": true, "texto": "os privilégios dos cidadãos das cidades gregas e romanas se originavam da condição de proprietários rurais."}
+	 ],
+	 "dificultade": 8.3
+},
+
+
+
+3) {
+ 	"pergunta":  "Com a expansão do poder romano [sob a República], tornou-se enorme a diferença entre a pequena cidade nascida às margens do Tibre e a Roma todo-poderosa, agora senhora do Mediterrâneo. A economia, a política, a vida social e religiosa dos romanos passaram por profundas modificações.
+(José Jobson de A. Arruda e Nelson Piletti, "Toda a História")
+
+Entre as modificações que se pode identificar está: ",
+
+	 "alternativas":
+	 [
+ 		{"correto": false, "texto": "a prosperidade do conjunto da plebe, maior beneficiária da ampliação do mercado consumidor em função das províncias conquistadas."},
+ 		{"correto": false, "texto": "a disseminação da pequena propriedade, com a distribuição da terra conquistada aos legionários, maiores responsáveis pela expansão."},
+		 {"correto": true, "texto": "a crescente influência cultural dos povos conquistados, em especial os gregos, alterando as práticas religiosas romanas."},
+ 		{"correto": false, "texto": "o enrijecimento moral de toda a sociedade, que passou a não mais tolerar as bacanais - festas em honra ao deus Baco."}
+	 ],
+	 "dificuldade": 8.9
+},
+
+
+4) {
+ 	"pergunta":  "A ruralizarão econômica do Império Romano do Ocidente (do século III ao V d.C.) NÃO teve como consequência:",
+	 "alternativas":
+	 [
+ 		{"correto": false, "texto": "o rebaixamento de muitos homens livres à condição de colonos que se tornaram presos à terra."},
+ 		{"correto": false, "texto": "o surgimento do colonato, que se constituiu no arrendamento de terras aos camponeses."},
+		 {"correto": false, "texto": "o latifúndio, principal unidade de produção, tornou-se quase autossuficiente."},
+ 		{"correto": true, "texto": "o aumento do afluxo de escravos para Roma, que dinamizou a expansão da economia agrícola."}
+	 ],
+	 "dificuldade": 8.6
+},
+
+
+
+
+
+
+
+
+5) {
+ 	"pergunta":  "Durante a República Romana, a conquista da igualdade civil e política, os tribunos da plebe e a lei das Doze tábuas foram decorrentes:",
+	 "alternativas":
+	 [
+ 		{"correto": true, "texto": "da marginalização política, discriminação social e desigualdade econômica que afetavam a plebe romana."},
+ 		{"correto": false, "texto": "da crise do sistema escravista de produção, transformando escravos em colonos e consequente declínio da agricultura."},
+		 {"correto": false, "texto": "do elevado poder do exército, que para conter a pressão das invasões bárbaras realizou reformas político-administrativas."},
+ 		{"correto": false, "texto": "do afluxo de riqueza para Roma devido às conquistas e enfraquecimento da classe equestre."}
+	 ],
+	 "dificuldade": 9.0
+},
+
+6) {
+ 	"pergunta":  "A importância de Otávio Augusto em Roma antiga, concentra-se principalmente no seu esforço para:",
+	 "alternativas":
+	 [
+ 		{"correto": false, "texto": "solucionar a crise agrícola decorrente da falta de pequenas propriedades. "},
+ 		{"correto": false, "texto": "vencer as guerras púnicas, trazendo paz para a sociedade romana."},
+		 {"correto": true, "texto": "estruturar um império com governo centralizado, apoiado em instituições republicanas."},
+ 		{"correto": false, "texto": "impedir que as reformas introduzidas pelos Gracos alterassem a estrutura agrária de Roma."}
+	 ],
+	 "dificuldade": 9.3
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7) {
+ 	"pergunta":  "O governo da República romana estava dividido em três corpos tão bem equilibrados em termos de direitos que ninguém, mesmo sendo romano, poderia dizer, com certeza, se o governo era aristocrático, democrático ou monárquico. Com efeito, a quem fixar a atenção no poder dos cônsules a constituição romana parecerá monárquica; a quem fixá-la no Senado ela mais parecerá aristocrática e a quem fixar no poder do povo ela parecerá claramente democrática.
+(POLÍBIOS. "Historia". Brasília: Ed. da UnB, 1985. Livro VI, 11. p. 333.)
+Políbios descreve a estrutura política da República romana (509-27 a. C.), idealizando o equilíbrio entre os poderes. Não obstante, a prática política republicana caracterizou- se pela:",
+	 "alternativas":
+	 [
+ 		{"correto": false, "texto": "organização de uma burocracia nomeada a partir de critérios censitários, isto é, de acordo com os rendimentos."},
+ 		{"correto": false, "texto": "manutenção do caráter oligárquico com a ordem equestre dos "homens novos" assumindo cargos na administração e no exército."},
+		 {"correto": false, "texto": "adoção da medida democrática de concessão da cidadania romana a todos os homens livres das províncias conquistadas."},
+ 		{"correto": true, "texto": "preservação do caráter aristocrático dos patrícios que controlaram o Senado, a Assembleia centuriata e as magistraturas."}
+	 ],
+	 "dificuldade": 10.0
+},
+
+
+
+8) {
+ 	"pergunta":  "A respeito das classes que compunham a sociedade romana na Antiguidade, é CORRETO afirmar que:",
+	 "alternativas":
+	 [
+ 		{"correto": false, "texto": "os "plebeus" podiam casar-se com membros das famílias patrícias, forma pela qual conseguiam quitar suas pendências de terra e dinheiro, conseguindo assim certa ascensão social."},
+ 		{"correto": true, "texto": "os "plebeus" compunham a classe formada pelos camponeses, artesãos e alguns que conseguiam enriquecer-se por meio do comércio, atividade que lhes era permitida."},
+		 {"correto": false, "texto": "os "clientes" eram estrangeiros acolhidos pelos patrícios e transformados em escravos, quando sua conduta moral não condizia com a de seus protetores."},
+ 		{"correto": false, "texto": "os "patrícios" foram igualados aos plebeus, durante a democracia romana, quando da revolta dos clientes, que lutaram contra a exclusão social da qual eram vítimas."}
+	 ],
+	 "dificuldade": 9.3
+},
+
+
+9) {
+ 	"pergunta":  "Na história de Roma, o século III da era cristã é considerado o século das crises. Foi nesse período que:",
+	 "alternativas":
+	 [
+ 		{"correto": false, "texto": "As tensões geradas pelas conquistas se refletiram nas contendas políticas, criaram um clima de constantes agitações, promovendo desordens nas cidades."},
+ 		{"correto": false, "texto": "O exército entrou em crise e deixou de ser o exército de cidadãos proprietários de terras."},
+		 {"correto": true, "texto": "O império romano começou a sofrer a terrível crise do trabalho escravo, base principal de sua riqueza."},
+ 		{"correto": false, "texto": "Os soldados perderam a confiança no Estado e tornaram-se fiéis a seus generais partilhando com eles os espólios de guerra."}
+	 ],
+	 "dificuldade": 8.9
+},
+
+
+10) {
+ 	"pergunta":  "Fomos em busca dos homens fugidos de nosso povoado e descobrimos que cinco deles e suas famílias estavam nas terras de Eulogio, mas os homens deste senhor impediram nos com violência de nos aproximar da entrada do domínio.
+(Egito romano, em 332 d.C.)
+... os colonos não têm liberdade para abandonar o campo ao qual estão atados por sua condição e seu nascimento. Se dele se afastam em busca de outra casa, devem ser devolvidos, acorrentados e castigados.
+(Valentiniano, em 371 d.C.)
+
+Os textos mostram a:",
+	 "alternativas":
+	 [
+ 		{"correto": false, "texto": "capacidade do Império romano de controlar a situação no campo, ao levar a cabo a política de transformar os escravos em colonos presos à terra."},
+ 		{"correto": false, "texto": "luta de classes, entre camponeses e grandes proprietários, pela posse das terras que o Estado romano, depois da crise do século III, é incapaz de controlar."},
+		 {"correto": false, "texto": "transformação, dirigida pelo governo do Baixo Império, das grandes unidades de produção escravistas em unidades menores e com trabalho servil."},
+ 		{"correto": true, "texto": "impotência do governo romano do Baixo Império em controlar a política agrária, por ele mesmo adotada, de fixar os pobres livres no campo."}
+	 ],
+	 "dificuldade": 10.0
+},
+
+11){
+ 	"pergunta":  "Sidônio Apolinário, aristocrata da Gália romana, escrevendo a um amigo, num período de grandes transformações culturais, assim se expressou:
+O vosso amigo Eminêncio, honrado senhor, entregou uma carta por vós ditada, admirável no estilo [...]. A língua romana foi há muito tempo banida da Bélgica e do Reno; mas se o seu esplendor sobreviveu de qualquer maneira, foi certamente convosco; a nossa jurisdição entrou em decadência ao longo da fronteira, mas enquanto viverdes e preservardes a vossa eloquência, a língua latina permanecerá inabalável. Ao retribuir as vossas saudações o meu coração alegra-se dentro de mim por a nossa cultura em desaparição ter deixado tais traços em vós [...].
+Apud PEDRERO-SÁNCHEZ, Maria Guadalupe. "História da Idade Média: textos e testemunhas". São Paulo: Editora UNESP, 2000. p. 42-43.
+
+A opinião contida no fragmento da carta está diretamente relacionada às:",
+	 "alternativas":
+	 [
+ 		{"correto": true, "texto": "invasões dos territórios do Império Romano pelos povos germânicos, provocando mudanças nas instituições imperiais."},
+ 		{"correto": false, "texto": "influências da cultura grega sobre a latina após a conquista da Grécia pelos romanos e sua anexação ao Império."},
+		 {"correto": false, "texto": "vitórias dos romanos sobre Cartago nas chamadas Guerras Púnicas (264-146 a. C.), impondo a cultura do Império a todo o norte da África."},
+ 		{"correto": false, "texto": "crises que se abateram sobre o Império Romano depois do governo de Marco Aurélio (161-180 d. C.), quando o exército passou a controlar o poder."}
+	 ],
+	 "dificuldade": 10.0
+},
