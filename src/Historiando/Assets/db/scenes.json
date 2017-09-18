@@ -1,0 +1,25 @@
+{
+    "greciaMain1":
+    {
+        "time": -1,
+        "numOfLives": 3,
+        "numOfQuestions": 5,
+        "path": "\\tba"
+    },
+
+    "greciaGuerras1":
+    {
+        "time": -1,
+        "numOfLives": 3,
+        "numOfQuestions": 3,
+        "path": "\\tba"
+    },
+
+    "greciaMain2":
+    {
+        "time": -1,
+        "numOfLives": 3,
+        "numOfQuestions": 4,
+        "path": "\\tba"
+    }
+}
